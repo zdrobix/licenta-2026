@@ -29,9 +29,12 @@ Pe diagonala principala sunt emotiile prezise corect, conform setului de testare
 | **Surprise** |  121   | 425  | 18  | 29   | 590  | ✅ 2511  |
 
 Dupa cum se poate observa setul de date nu este unul echilibrat, deci urmeaza sa concatenez mai multe date pentru a ajunge la o solutie mai balansata.
-#### Scenarii de rulare
 
 ---
+
+#### Scenarii de rulare
+
+
 Pentru propozitii/ fraze simple algoritmul functioneaza bine.
 ``` bash
 Enter phrase:   you make me angry
