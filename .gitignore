@@ -1,0 +1,11 @@
+# Ignore Python bytecode files
+*.pyc
+
+# Ignore CSV data files
+*.csv
+
+# Ignore system files
+.DS_Store
+Thumbs.db 
+# created by virtualenv automatically
+
