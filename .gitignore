@@ -13,4 +13,5 @@
 # Ignore system files
 .DS_Store
 Thumbs.db 
+
 # created by virtualenv automatically
