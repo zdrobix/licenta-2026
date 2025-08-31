@@ -4,8 +4,18 @@
 # Ignore CSV data files
 *.csv
 
+/Scripts/
+/Lib/
+/.idea/
+/music/chrome-win64/
+
 # Ignore system files
 .DS_Store
 Thumbs.db 
 # created by virtualenv automatically
 
+# Ignore environment variable files
+*.env
+
+# Ignore model files
+*.pkl
